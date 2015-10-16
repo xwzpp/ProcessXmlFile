@@ -1,7 +1,6 @@
 #include "tinystr.h"
 #include "tinyxml.h"
 #include "string"
-#include <windows.h>
 #include <map>
 #include <iostream>
 #include  <direct.h>  
