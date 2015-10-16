@@ -1,4 +1,1 @@
-language: c
-
-compiler:
-  - gcc
+language: c++
